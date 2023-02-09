@@ -1,0 +1,42 @@
+body
+{
+  background: cover;
+}
+
+.heading{
+  width: 100%;
+  text-align: center;
+}
+
+.heading h2{
+  display: inline;
+}
+
+.heading button{
+  float: right;
+  border: 1px solid black;
+}
+
+#start,#status{
+  font-size: 20px;
+}
+
+.modal-dialog{
+  width:90%;
+}
+
+.instructionImage{
+  display: inline-block;
+  width: 45%;
+}
+
+li{
+  font-size: 20px;
+}
+
+canvas{
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-top: 75px;
+  box-shadow: 5px 5px 5px blue;
+}
